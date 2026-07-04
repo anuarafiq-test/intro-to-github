@@ -5,4 +5,5 @@
 - **University:** Universiti Teknologi PETRONAS
 - **GitHub:** [@example](https://github.com/example)
 - **Fun fact:** I just made my first GitHub commit today 🎉
--  I study Computer Science 🚀
+- **Currently learning:** Git & GitHub 🚀
+Hello this is maisha
