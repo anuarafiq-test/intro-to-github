@@ -5,4 +5,4 @@
 - **University:** Universiti Teknologi PETRONAS
 - **GitHub:** [@akriii](https://github.com/akriii)
 - **Fun fact:** I just made my first GitHub commit today 🎉
-- **Currently learning:** Git & GitHub 🚀
+- **Currently learning:** Git, GitHub, React and Backend 🚀
