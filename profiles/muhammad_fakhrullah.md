@@ -4,4 +4,5 @@
 - **Year:** 1st
 - **University:** Universiti Teknologi PETRONAS
 - **GitHub:** [@Kucingr624](https://github.com/Kucingr624)
-- **Fun fact:** test
+- **Fun fact:** i love github
+- **Currently learning:** Git & GitHub 🚀
